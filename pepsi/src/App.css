@@ -1,0 +1,9 @@
+.bgRedColor{
+    background:#ed0223;
+}
+
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
